@@ -1,4 +1,5 @@
 I love Godddddddddddddddddddddddddddddddddddddddddddddddd
+<<<<<<< HEAD
 I love Playing Gamessssssssssssssssssssss
 I Like my friendssssssssssssssssssssssssssssssss
 I love foooooooooooood
@@ -16,3 +17,5 @@ I Like my friendssssssssssssssssssssssssssssssss
 I love foooooooooooood
 I also love chicken
 I like shoes and clothes
+=======
+>>>>>>> 269632927d0015a84dcf079b91eb6ebc0a66872c
